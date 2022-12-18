@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Chivo Mono', monospace;
+
+}
+body{ 
+background-color: beige;
+}
+p{ 
+    background-color:aqua;
+    text-align: center;
+}
+#container{margin:0px;
+    color: rgb(8, 7, 8);
+    background-color: rgb(219, 160, 211);
+    padding: 20px;
+}
+
+header{
+    background-color: rgb(234, 236, 107);
+    padding:60px;
+    }
+#menu{background-color:rgb(211, 204, 218);
+    height:70px;
+    padding: 10px;
+}
+#menu a{background-color:white;
+    border-color:rgb(2, 2, 2) ;
+    border-style: solid;
+    text-decoration: none;
+    border-radius:  20px;
+    padding: 10px;
+}
+#menu a:hover{
+    background-color:blueviolet;
+    color: antiquewhite;
+}
+footer
+{
+    background-color: beige
+    ;
+}
+h3{background-color: antiquewhite;
+text-align:center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
